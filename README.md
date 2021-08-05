@@ -30,3 +30,6 @@
 #### Aplikasi untuk memberitahu informasi perkembangan virus Covid di Indonesia, dengan data yang didapat dari kawalcorona.com
 <img src="https://user-images.githubusercontent.com/18584572/86500251-085b7680-bdba-11ea-901c-d55b55a92e14.jpg" width="300"  /> 
 
+-----------
+### Desain
+https://dribbble.com/ayyuby 
