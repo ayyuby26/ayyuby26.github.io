@@ -1,9 +1,15 @@
 # Project yang pernah dikerjakan
 
 #PHP
-### 1. Storing Gudang (Codeigniter 3)
+### 1. SPP (Codeigniter 3)
+#### Untuk menyimpan data pembayaran SPP (Data Dummy)
+<img src="https://user-images.githubusercontent.com/18584572/142142146-911cde5d-9770-4619-8e7b-cf2d863be3d7.png" width="440"/> <img src="https://user-images.githubusercontent.com/18584572/142142250-672fd0a3-8a73-4c24-90da-6c0f962a1681.png" width="440"/> <img src="https://user-images.githubusercontent.com/18584572/142142331-349bb874-7711-4996-92ab-ef13db155478.png" width="440"/> <img src="https://user-images.githubusercontent.com/18584572/142141380-92815790-6cb3-4008-952b-e9c5457702d7.png" width="440"/> <img src="https://user-images.githubusercontent.com/18584572/142142374-077942ca-ec39-4ed7-ab21-843b26726ef2.png" width="440"/> <img src="https://user-images.githubusercontent.com/18584572/142142741-5cb83395-d520-4e3a-90b3-a2daaadd243a.png" width="440"/>
+
+
+### 2. Storing Gudang (Codeigniter 3)
 #### Untuk menyimpan data barang di gudang
-<img src="https://user-images.githubusercontent.com/18584572/128601959-cdea4c3b-b38e-42c9-8131-02bc1bfbbbf8.png" width="440"/>  | <img src="https://user-images.githubusercontent.com/18584572/128602103-d90f778a-ea17-4465-a135-cda33bd5d6f9.png" width="440"  />
+<img src="https://user-images.githubusercontent.com/18584572/128601959-cdea4c3b-b38e-42c9-8131-02bc1bfbbbf8.png" width="440"/>
+<img src="https://user-images.githubusercontent.com/18584572/128602103-d90f778a-ea17-4465-a135-cda33bd5d6f9.png" width="440"/>
 
 -----------
 ### Desain (FIGMA)
