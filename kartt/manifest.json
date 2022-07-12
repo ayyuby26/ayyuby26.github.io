@@ -1,7 +1,7 @@
 {
     "name": "kartono_app",
     "short_name": "kartono_app",
-    "start_url": "https://ayyuby26.github.io/kartt/",
+    "start_url": "https://ayyuby26.github.io/kartt/.",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
