@@ -46588,7 +46588,7 @@ ly:function(a){}}
 O.mp.prototype={
 L:function(a,b){var s=null
 B.a0R(C.k,40)
-return M.a5k(s,s,T.IU(L.rl("ProjectsView is working",A.mY(s,s,s,s,s,s,s,s,s,s,s,20,s,s,s,s,!0,s,s,s,s,s,s,s),s,s),s,s))}}
+return M.a5k(s,s,T.IU(L.rl("Sample Page",A.mY(s,s,s,s,s,s,s,s,s,s,s,20,s,s,s,s,!0,s,s,s,s,s,s,s),s,s),s,s))}}
 T.HY.prototype={
 $0:function(){return new U.lQ(null)},
 $S:298}
