@@ -58839,7 +58839,7 @@ return new A.rG(new A.Dq(l,new A.Oi(m,!1),n,r),o)}}
 A.r0.prototype={
 ai(){return new A.H6(B.j)}}
 A.H6.prototype={
-N(a){var s=null,r="https://avatars.githubusercontent.com/u/18584572?v=4",q=t.F,p=A.X8(A.a([A.a04(B.J5,new A.a3m(),s),A.a04(B.Jc,new A.a3n(a),s)],q),B.bu,B.r_,B.bC)
+N(a){var s=null,r="https://avatars.githubusercontent.com/u/18584572?v=4",q=t.F,p=A.X8(A.a([A.a04(B.J5,new A.a3m(),s),A.a04(B.J6,new A.a3n(a),s)],q),B.bu,B.r_,B.bC)
 return A.acU(new A.pI(p,0,B.i,new A.IU(s,s,1/0,56),s),B.i,A.NC(A.qc(B.a3,a.a1(t.w).f.a.a<400?A.NV(A.a([A.NN(A.kp(999),A.Sn(r,s,s,s,200)),B.EI,this.gFS()],q),B.bu,B.r_,B.bC):A.X8(A.a([new A.A8(1,B.lG,A.qc(s,this.gFS(),s,s,s,s,s,s,s),s),A.NN(A.kp(999),A.Sn(r,s,s,s,200))],q),B.bu,B.bB,B.bC),s,B.vH,s,s,s,s,s),s,s))},
 gFS(){var s=null
 return A.NV(A.a([A.a98(s,s,B.bR,s,s,!0,s,B.FF,B.b1,s,s,1,B.aD),B.jY,B.Jd,B.jY,A.a8C(!1,!0,A.Sn("https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",s,s,s,30),s,!0,s,s,s,s,s,s,s,s,s,new A.a3o(),s,s,s,s)],t.F),B.de,B.bB,B.fF)}}
@@ -58857,7 +58857,7 @@ A.tv.prototype={
 ai(){return new A.IT(A.akE(),B.j)}}
 A.IT.prototype={
 N(a){var s=this,r=null,q=A.kp(16),p=t.F,o=A.a([s.Hk(0,"https://i.ibb.co/WHLSs8H/1.png"),s.Hk(0,"https://i.ibb.co/qNsLddR/2.png")],p)
-return A.acU(r,r,new A.eA(B.y3,A.NV(A.a([B.x1,A.NV(A.a([B.Jb,B.J8,B.jY,A.NN(q,A.qc(r,A.Ec(B.d2,A.a([new A.te(s.d,new A.a_i(o,A.aO([null,0],t.st,t.S)),r),new A.eA(B.aJ,new A.hQ(B.ks,r,r,A.NN(A.kp(8),A.B9(B.ak,A.X8(A.a([A.a04(B.J6,new A.a4M(s),A.a9m(r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.ck(A.kp(8),B.kz),r,r,r,r)),B.EH,A.a04(B.J7,new A.a4N(s),A.a9m(r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.ck(A.kp(8),B.kz),r,r,r,r))],p),B.bu,B.bB,B.fF),B.F,r,0,r,r,r,r,r,B.cv)),r),r)],p),B.e7),r,r,B.vJ,300,r,r,600))],p),B.de,B.bB,B.bC)],p),B.bu,B.bB,B.bC),r))},
+return A.acU(r,r,new A.eA(B.y3,A.NV(A.a([B.x1,A.NV(A.a([B.Jb,B.J9,B.jY,A.NN(q,A.qc(r,A.Ec(B.d2,A.a([new A.te(s.d,new A.a_i(o,A.aO([null,0],t.st,t.S)),r),new A.eA(B.aJ,new A.hQ(B.ks,r,r,A.NN(A.kp(8),A.B9(B.ak,A.X8(A.a([A.a04(B.J7,new A.a4M(s),A.a9m(r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.ck(A.kp(8),B.kz),r,r,r,r)),B.EH,A.a04(B.J8,new A.a4N(s),A.a9m(r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.ck(A.kp(8),B.kz),r,r,r,r))],p),B.bu,B.bB,B.fF),B.F,r,0,r,r,r,r,r,B.cv)),r),r)],p),B.e7),r,r,B.vJ,300,r,r,600))],p),B.de,B.bB,B.bC)],p),B.bu,B.bB,B.bC),r))},
 Hk(a,b){return A.Sn(b,new A.a4O(),B.vK,new A.a4P(),null)}}
 A.a4M.prototype={
 $0(){var s=this.a.d,r=t.sa.a(B.b.gbp(s.d)),q=r.gr4(r)
@@ -61382,8 +61382,8 @@ B.x0=new A.q1(null,null,null,null,null,null,null)
 B.aJ=new A.bd(8,8,8,8)
 B.bx=new A.eq(6)
 B.HY=new A.q(!0,null,null,null,null,null,24,B.bx,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.J9=new A.dF("My Portofolio",null,B.HY,null,null,null)
-B.CV=new A.eA(B.aJ,B.J9,null)
+B.Jc=new A.dF("Portfolio",null,B.HY,null,null,null)
+B.CV=new A.eA(B.aJ,B.Jc,null)
 B.x1=new A.q2(B.a3,null,null,B.CV,null)
 B.x2=new A.q3(null,null,null,null,null,null,null,null,null)
 B.x3=new A.q4(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
@@ -63176,12 +63176,12 @@ B.C8=new A.bu([50,B.lu,100,B.lt,200,B.xo,300,B.eU,350,B.xn,400,B.xm,500,B.lp,600
 B.Cx=new A.rI(B.C8,4288585374)
 B.uJ=new A.q(!0,B.Cx,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.J5=new A.dF("Beranda",null,B.uJ,null,null,null)
-B.J6=new A.dF("<",null,null,null,null,null)
-B.J7=new A.dF(">",null,null,null,null,null)
-B.J8=new A.dF("Untuk menyimpan data pembayaran SPP",null,null,null,null,null)
+B.J6=new A.dF("Portfolio",null,null,null,null,null)
+B.J7=new A.dF("<",null,null,null,null,null)
+B.J8=new A.dF(">",null,null,null,null,null)
+B.J9=new A.dF("Untuk menyimpan data pembayaran SPP",null,null,null,null,null)
 B.Ja=new A.dF("error Load Image",null,null,null,null,null)
 B.Jb=new A.dF("Admin SPP Codeigniter 3",null,B.k2,null,null,null)
-B.Jc=new A.dF("Portofolio",null,null,null,null,null)
 B.Jd=new A.dF("Menyukai tantangan dan hal baru,\nkarena membuat lebih\nberpengalaman",null,B.uJ,null,null,null)
 B.LB=new A.EG(0,"system")
 B.Je=new A.uR(null)
